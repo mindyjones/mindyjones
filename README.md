@@ -2,13 +2,13 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-<p>I'm a cloud solution architect focused on data and AI at <strong><a href="https://microsoft.com/">Microsoft</a></strong>. 
+<p>I'm Ilaria a software engineer, content creator & community organizer.
 
-I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data (data engineering and architecture). 
+I've been working with technology since 2015, and during this time I worked with the most diverse types of projects and companies.
 
 What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
 
-Take a look in some data projects which have already been making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>.
+
 
 <br>
 
