@@ -13,7 +13,7 @@ What has enchanted me the most is working with data projects seen that today we 
 <br>
 
 ## 👩‍💻 About me
-* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
+* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Italy" /> I'm from Italy/India
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 👩‍🏫 Love teaching and sharing knowledge
