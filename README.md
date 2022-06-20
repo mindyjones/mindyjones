@@ -67,7 +67,7 @@ Take a look in some data projects which have already been making the world a bet
 
 ## 💻Coding Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaroliness9&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=anacaroliness9&theme=dracula" width="62%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindyjones&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=mindyjones&theme=dracula" width="62%" />
 <br>
 ## 📕 Certifications
 
@@ -100,10 +100,10 @@ Take a look in some data projects which have already been making the world a bet
    
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anacaroliness9/">
+<a href="https://www.linkedin.com/in/mindyjones/">
   <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
 </a>
-<a href="mailto:anacaroliness9@hotmail.com">
+<a href="mailto:mindyjones@hotmail.com">
 <code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
 </a>
 
@@ -118,18 +118,18 @@ title="This is how I feel when I am programming \o/" width="35%" />
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/anacaroliness9/anacaroliness9.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://anacaroliness9.github.io/anacaroliness9/)
+![ViewCount](https://views.whatilearened.today/views/github/mindyjones/mindyjones.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://mindyjones.github.io/mindyjones/)
 </div>
 
 <!--    [![Medium Badge](https://img.shields.io/badge/-@vana?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ana)](https://medium.com/@ana) 
 
 
-   [![Instagram Badge](https://img.shields.io/badge/-@anacaroliness9-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anacaroliness9/)](https://instagram.com/anacaroliness9)
+   [![Instagram Badge](https://img.shields.io/badge/-@mindyjones-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mindyjones/)](https://instagram.com/mindyjones)
 
    <!--
 <a href="https://drive.google.com/file/d/0B20aGN1khT3pMWxEU2ZkZG5CUmc/view"><img src="https://www.datacrunchlab.com/wp-content/uploads/2019/04/Certified-IBM-Analytics-badge.png" alt="IBM Certified Administrator - Cognos 10 BI"
    title="Architecture" width="20%" style="float:left; /> </a> 
-**anacaroliness9/anacaroliness9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mindyjones/mindyjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
